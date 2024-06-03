@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 10,
+  "experience": 100,
+  "group": "kukumber",
+  "ingredient": {
+    "item": "epickmod:kukumber_ore"
+  },
+  "result": "epickmod:kukumber"
+}
